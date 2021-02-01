@@ -21,7 +21,6 @@ export const BootstrapCard = props => {
 //https://en.wikipedia.org/wiki/Bob_Dylan
 //"https://ucarecdn.com/f8cf81eb-3bab-4bba-9431-668884eab174/-/resize/300x/"
 BootstrapCard.propTypes = {
-	// 2) add here the new properties into the proptypes object
 	imageUrl: PropType.string,
 	title: PropType.string,
 	description: PropType.string,
