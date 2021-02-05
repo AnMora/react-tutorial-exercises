@@ -1,6 +1,6 @@
 {
     "port": 3000,
-    "address": "https://a9ef5e13-f2a8-4211-a216-943d0f2c907e.ws-us03.gitpod.io",
+    "address": "https://c744872a-063f-4d70-9139-8db5e6cdbb94.ws-us03.gitpod.io",
     "editor": "gitpod",
     "configPath": {
         "config": "bc.json",
@@ -212,7 +212,7 @@
         {
             "slug": "04.1-conditional-rendering",
             "title": "04.1-conditional-rendering",
-            "done": false,
+            "done": true,
             "path": "exercises/04.1-conditional-rendering",
             "translations": [
                 "es",
@@ -223,7 +223,7 @@
         {
             "slug": "04.2-conditional-rendering-ii",
             "title": "04.2-conditional-rendering-ii",
-            "done": false,
+            "done": true,
             "path": "exercises/04.2-conditional-rendering-ii",
             "translations": [
                 "es",
@@ -234,7 +234,7 @@
         {
             "slug": "05-adding-styles",
             "title": "05-adding-styles",
-            "done": false,
+            "done": true,
             "path": "exercises/05-adding-styles",
             "translations": [
                 "es",
@@ -256,7 +256,7 @@
         {
             "slug": "06-listening-to-events",
             "title": "06-listening-to-events",
-            "done": false,
+            "done": true,
             "path": "exercises/06-listening-to-events",
             "translations": [
                 "es",

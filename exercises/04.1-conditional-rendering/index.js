@@ -4,16 +4,22 @@ import PropTypes from "prop-types";
 
 const Alert = props => {
 	//your component here
+
+	const Alert = {
+		red: "alert-danger",
+		orange: "alert-warning"
+	};
+
 	if (getRandomInt == 0) {
 		return (
-			<div class="alert alert-danger" role="alert">
-				This is a primary alert—check it out!
+			<div className={`alert ${Alert[props.color]}`} role="alert">
+				{props.text}
 			</div>
 		);
 	} else {
 		return (
-			<div class="alert alert-warning" role="alert">
-				This is a primary alert—check it out!
+			<div className={`alert ${Alert[props.color]}`} role="alert">
+				{props.text}
 			</div>
 		);
 	}
